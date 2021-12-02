@@ -72,4 +72,6 @@ if __name__ == "__main__":
     while True:
         query = takeCommand().lower()
         print(query)
-        new_func(speak, query)    
+        new_func(speak, query)  
+
+        # yoo  
